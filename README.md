@@ -14,11 +14,6 @@ AWS EC2 Instance, SCALA, Eclipse IDE, Windows Local Machine, Apache Spark
 # Goal of the thesis
 The process of real-time data streaming is to handle and process huge volumes of data quickly. There is an increasing need for taking out information from functional data in real time, which is crucial in fast situations. The faster one can bind insights from data, the larger benefit in driving value, taking, reducing costs, and increasing efficiency.
 
-# Success
-Performed successful comparitive analysis with best features of each data streaming framework like 
-* Processing Time, Execution Time, CPU Consumption, Scalability.
--> Winner: Apache Spark!!!
-
 # SUMMARIZATION OF SOME FEATURES OF BIG DATA FRAMEWORKS
 
 | Feature | Hadoop | Spark | Storm | Flink |
@@ -43,4 +38,7 @@ Performed successful comparitive analysis with best features of each data stream
 | Execution time                    | Word Count              | High execution time | Low execution time | Not Compared | Not Compared |
 | Scalability                       | Large dataset and fixed | Not Compared | Better      | Best       | Not Compared      |
 
-
+# Success
+Performed successful comparitive analysis with best features of each data streaming framework like 
+* Processing Time, Execution Time, CPU Consumption, Scalability.
+-> Winner: Apache Spark 🏆😊
