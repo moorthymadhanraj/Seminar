@@ -13,3 +13,10 @@ AWS EC2 Instance, SCALA, Eclipse IDE, Windows Local Machine, Apache Spark
 
 # Goal of the thesis
 The process of real-time data streaming is to handle and process huge volumes of data quickly. There is an increasing need for taking out information from functional data in real time, which is crucial in fast situations. The faster one can bind insights from data, the larger benefit in driving value, taking, reducing costs, and increasing efficiency.
+
+# Success
+Performed successful comparitive analysis with best features of each data streaming framework like 
+* Processing Time
+* Scalability
+* Efficiency
+Winner: Apache Spark!!!
