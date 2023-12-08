@@ -16,7 +16,5 @@ The process of real-time data streaming is to handle and process huge volumes of
 
 # Success
 Performed successful comparitive analysis with best features of each data streaming framework like 
-* Processing Time
-* Scalability
-* Efficiency
-Winner: Apache Spark!!!
+* Processing Time, Scalability, Efficiency
+-> Winner: Apache Spark!!!
