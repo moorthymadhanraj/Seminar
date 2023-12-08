@@ -18,7 +18,9 @@ The process of real-time data streaming is to handle and process huge volumes of
 Performed successful comparitive analysis with best features of each data streaming framework like 
 * Processing Time, Execution Time, CPU Consumption, Scalability.
 -> Winner: Apache Spark!!!
-  
+
+# SUMMARIZATION OF SOME FEATURES OF BIG DATA FRAMEWORKS
+
 | Feature | Hadoop | Spark | Storm | Flink |
 |---|---|---|---|---|
 | Processing Mode | Batch | Batch and Stream | Stream | Batch and Stream |
@@ -27,3 +29,18 @@ Performed successful comparitive analysis with best features of each data stream
 | Computation Mode | Disk-based | In memory | In memory | In memory |
 | Auto-scaling | Yes | Yes | No | No |
 | Iterative Computation | Yes | Yes | Yes | Yes |
+
+# COMPARISON OF BIG DATA FRAMEWORKS WITH BEST FEATURES
+| Categorized                       | In case of              | Hadoop       | Spark       | Flink      | Storm             |
+|-----------------------------------|-------------------------|--------------|-------------|------------|-------------------|
+| Processing time                   | Big data set            | Less faster  | Fastest     | Slower     | Not Compared      |
+| Processing time                   | Small data set          | Slower       | Fastest     | Less faster| Not Compared      |
+| Processing time                   | Cluster size            | Slow         | Fast        | Slow       | Not Compared      |
+| Processing time                   | JSON format data        | Not Compared | Fast        | Slow       | Not Compared      |
+| CPU consumption                   | Stream mode             | Not Compared | Less CPU usage | Less CPU usage | Highest CPU Usage |
+| Execution time                    | DAS-4 and Tera Sort     | High execution time | Low execution time | Low execution time | Not Compared |
+| Execution time                    | Word Count and logistic regression program | High execution time | Low execution time | Not Compared | Not Compared |
+| Execution time                    | Word Count              | High execution time | Low execution time | Not Compared | Not Compared |
+| Scalability                       | Large dataset and fixed | Not Compared | Better      | Best       | Not Compared      |
+
+
