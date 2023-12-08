@@ -18,3 +18,12 @@ The process of real-time data streaming is to handle and process huge volumes of
 Performed successful comparitive analysis with best features of each data streaming framework like 
 * Processing Time, Execution Time, CPU Consumption, Scalability.
 -> Winner: Apache Spark!!!
+  
+| Feature | Hadoop | Spark | Storm | Flink |
+|---|---|---|---|---|
+| Processing Mode | Batch | Batch and Stream | Stream | Batch and Stream |
+| Scalability | Horizontal | Horizontal | Horizontal | Horizontal |
+| Message Delivery Guarantees | Exactly once | Exactly once | At least once | Exactly once |
+| Computation Mode | Disk-based | In memory | In memory | In memory |
+| Auto-scaling | Yes | Yes | No | No |
+| Iterative Computation | Yes | Yes | Yes | Yes |
