@@ -11,7 +11,7 @@ Big Data, Simulated Data (Uber Data), Data Streaming, Apache Spark, Apache Storm
 # Tools, Packages & Programming Languages:
 AWS EC2 Instance, SCALA, Eclipse IDE, Windows Local Machine, Apache Spark
 
-# Goal of the thesis
+# Goal of the thesis 
 The process of real-time data streaming is to handle and process huge volumes of data quickly. There is an increasing need for taking out information from functional data in real time, which is crucial in fast situations. The faster one can bind insights from data, the larger benefit in driving value, taking, reducing costs, and increasing efficiency.
 
 # SUMMARIZATION OF SOME FEATURES OF BIG DATA FRAMEWORKS
@@ -38,8 +38,7 @@ The process of real-time data streaming is to handle and process huge volumes of
 | Execution time                    | Word Count              | High execution time | Low execution time | Not Compared | Not Compared |
 | Scalability                       | Large dataset and fixed | Not Compared | Better      | Best       | Not Compared      |
 
-# Success
-Performed successful comparitive analysis with best features of each data streaming framework like 
-* Processing Time, Execution Time, CPU Consumption, Scalability and other features.
+# Success 
+Performed successful comparitive analysis with best features of each data streaming framework like Processing Time, Execution Time, CPU Consumption, Scalability and other features.
 -> Final Winner: Apache Spark 🏆 <- (Winning Aspects: Processing Time & Scalability)😊
   
